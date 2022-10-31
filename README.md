@@ -1,5 +1,7 @@
 #### ** THIS REPO IS DEPRECATED AND IS NO LONGER BEING ACTIVELY MAINTAINED **
 
+[![](https://jitpack.io/v/germesdev/ferro.svg)](https://jitpack.io/#germesdev/ferro)
+
 Ferro evolved into modules `core-ui`, `core-mvp`, `mvp-dialog`, `mvp-widjet` [Surf Android Standard](https://github.com/surfstudio/SurfAndroidStandard/) repository (Documentation in Russian). It contains modules, which is used for developing Android projects by mobile studio [Surf](http://surfstudio.ru/).
 
 # Ferro
