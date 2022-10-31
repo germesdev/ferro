@@ -1,6 +1,6 @@
 #### ** THIS REPO IS DEPRECATED AND IS NO LONGER BEING ACTIVELY MAINTAINED **
 
-![GitHub branch checks state](https://img.shields.io/github/checks-status/germesdev/ferro/master)
+![Master](https://github.com/germesdev/ferro/actions/workflows/build.yml/badge.svg?branch=master)
 [![](https://jitpack.io/v/germesdev/ferro.svg)](https://jitpack.io/#germesdev/ferro)
 
 Ferro evolved into modules `core-ui`, `core-mvp`, `mvp-dialog`
