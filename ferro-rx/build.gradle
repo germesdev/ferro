@@ -6,9 +6,9 @@ plugins {
 publishing {
     publications {
         maven(MavenPublication) {
-            groupId = "com.agna.ferro"
+            groupId = "com.github.germesdev"
             artifactId = "ferro-rx"
-            version = "3.0.0"
+            version = "1.0.0"
         }
     }
 }
